@@ -1,0 +1,28 @@
+# Java
+*.class
+*.log
+
+# Maven
+/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Playwright/Browser-related
+playwright-report/
+test-results/
+trace.zip
+
+# Logs
+*.log
+logs/
